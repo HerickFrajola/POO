@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio2",
+            "request": "launch",
+            "mainClass": "Exercicio2.Exercicio2",
+            "projectName": "Prova 1_e4708e97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio3",
+            "request": "launch",
+            "mainClass": "Exercicio3.Exercicio3",
+            "projectName": "Prova 1_e4708e97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Livro",
+            "request": "launch",
+            "mainClass": "Exercicio4.Livro.Livro",
+            "projectName": "Prova 1_e4708e97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cadastro",
+            "request": "launch",
+            "mainClass": "Exercicio5.Cadastro",
+            "projectName": "Prova 1_e4708e97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Central",
+            "request": "launch",
+            "mainClass": "Exercicio5.Central",
+            "projectName": "Prova 1_e4708e97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cadastro(1)",
+            "request": "launch",
+            "mainClass": "Exercicio6.Cadastro",
+            "projectName": "Prova 1_e4708e97"
+        }
+    ]
+}
